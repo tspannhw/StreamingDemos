@@ -40,3 +40,5 @@ curl -X GET "http://edge2ai-1.dim.local:9991/api/v1/admin/alertPolicy"
 
 # To DELETE all policies, iterate all policies, go by id
 # http://edge2ai-1.dim.local:9991/api/v1/admin/alertPolicy/6
+
+https://github.com/tspannhw/ApacheConAtHome2020/tree/main/alerts
